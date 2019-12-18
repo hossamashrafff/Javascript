@@ -1,0 +1,3 @@
+create database data;
+use data;
+create table data(type varchar(20), time FLOAT, target TEXT);
